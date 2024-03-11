@@ -2,16 +2,16 @@
 Using Machine learning algorithm to create a simple linear regression model to predict mpg based on weight.
 
 # Dependencies:
-.Python
+Python
 
-.Numpy
+Numpy
 
-.Pandas
+Pandas
 
-.Matplotlib
+Matplotlib
 
-.Supervised Learning
+Supervised Learning
 
-.Machine Learning Algorithm
+Machine Learning Algorithm
 
-.Classification Algorithms
+Classification Algorithms
